@@ -1,0 +1,10 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.table {
+  --bs-table-hover-bg: rgba(225, 255, 255, 0.3);
+}
+
+:root {
+  --bs-body-color: $light;
+}
+
